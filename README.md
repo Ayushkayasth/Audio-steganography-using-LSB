@@ -16,3 +16,4 @@ This project implements a technique called **audio steganography** to hide secre
 **Note:**
 
 * Steganography techniques might not be suitable for highly sensitive information as advanced analysis tools could potentially reveal the hidden message.
+* [Open file in google colab for better understanding]
